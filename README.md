@@ -1,0 +1,1 @@
+How to play : if you won or lose press any where on the screen to restart the game
